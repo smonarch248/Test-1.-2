@@ -1,4 +1,3 @@
-
 package com.terminators.android
 
 import android.os.Bundle
